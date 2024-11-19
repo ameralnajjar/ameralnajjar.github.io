@@ -1,0 +1,118 @@
+{
+    
+    "Python":{
+        
+        "videos":[
+    {
+        "ID":1,
+        "VIDEOID":"37AtvQO2vbE",
+        "VideoName":"Where can we use python language"
+    },
+    {
+        "ID":2,
+        "VIDEOID":"_RKtPBtDsQs",
+        "VideoName":"compiler meaning and the difference between compiler"
+    },
+    {
+        "ID":3,
+        "VIDEOID":"wCSk_UMSxWc",
+        "VideoName":"biggest cons in python and what is Mojo language."
+    },
+    {
+        "ID":4,
+        "VIDEOID":"q6Chl6peWiU",
+        "VideoName":"How to write comments in python language ?"
+    },
+    {
+        "ID":5,
+        "VIDEOID":"sQ6w1A3p7bo",
+        "VideoName":"print in python"
+    },
+    {
+        "ID":6,
+        "VIDEOID":"xMb_auL9k7E",
+        "VideoName":"Variables in python"
+    },
+    {
+        "ID":7,
+        "VIDEOID":"lI93kPyEAWk",
+        "VideoName":"Input in python"
+    },
+    {
+        "ID":8,
+        "VIDEOID":"Pc4timo6Lyo",
+        "VideoName":"Operations in python"
+    },
+    {
+        "ID":9,
+        "VIDEOID":"fbD4l4egMDg",
+        "VideoName":"Casting in python"
+    },
+    {
+        "ID":10,
+        "VIDEOID":"weO4vYTA8h0",
+        "VideoName":"If statement"
+    },
+    {
+        "ID":11,
+        "VIDEOID":"QgDjM16q8_Q",
+        "VideoName":"Ternary Condition"
+    },
+    {
+        "ID":12,
+        "VIDEOID":"orswQ6ZtguQ",
+        "VideoName":"Lists"
+    },
+    {
+        "ID":13,
+        "VIDEOID":"gJKXJQdC84k",
+        "VideoName":"For Loop"
+    },
+    {
+        "ID":14,
+        "VIDEOID":"OJxPNQmZwVI",
+        "VideoName":"List with Loops"
+    },
+    {
+        "ID":15,
+        "VIDEOID":"Vrsain_7K_0",
+        "VideoName":"Nested for loop"
+    },
+    {
+        "ID":16,
+        "VIDEOID":"xZAPieHHoO4",
+        "VideoName":"Loops with If statement"
+    },
+    {
+        "ID":17,
+        "VIDEOID":"UYxF2bS0gpg",
+        "VideoName":"While Loop"
+    },
+    {
+        "ID":18,
+        "VIDEOID":"dcB-1iD73o4",
+        "VideoName":"String in Python"
+    },
+    {
+        "ID":19,
+        "VIDEOID":"J33S98PhBJk",
+        "VideoName":"Functions"
+    },
+    {
+        "ID":20,
+        "VIDEOID":"tee7iVkdxgs",
+        "VideoName":"Tuple"
+    },
+    {
+        "ID":21,
+        "VIDEOID":"Qn6DF60d4XI",
+        "VideoName":"Set"
+    },
+    {
+        "ID":22,
+        "VIDEOID":"IQAsPOyrZY4",
+        "VideoName":"Dictionary and Json Files"
+    }
+
+]}
+}    
